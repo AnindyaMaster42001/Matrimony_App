@@ -21,6 +21,7 @@ The matrimony Application provides an attractive and effective platform for user
    - Extract the downloaded zip into a specified directory (Keep note of this directory, it will be needed later)
 
 3. **Run the Application:**
+   - Turn on your internet connection
    - Open terminal in the project folder.
    - Run `java --module-path "Path/to/javaFX-SDK/lib" --add-modules javafx.controls,javafx.fxml -jar Matrimony_App_Linux.jar` (Here replace Path/to/JavaFX-SDK with your javaFX SDK folder path)
 
@@ -36,5 +37,6 @@ The matrimony Application provides an attractive and effective platform for user
    - Extract the downloaded zip into a specified directory (Keep note of this directory, it will be needed later)
 
 3. **Run the Application:**
+   - Turn on your internet connection
    - Open terminal in the project folder.
    - Run `java --module-path "Path/to/javaFX-SDK/lib" --add-modules javafx.controls,javafx.fxml -jar Matrimony_App_Windows.jar` (Here replace Path/to/JavaFX-SDK with your javaFX SDK folder path)
