@@ -10,7 +10,7 @@ The matrimony Application provides an attractive and effective platform for user
 
 ## Installation and Usage
 
-### For Windows
+### For Linux
 
 1. **Install JDK: (Amazon Coretto)**
    - Download the .deb file from https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html
