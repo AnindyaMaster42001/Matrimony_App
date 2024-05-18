@@ -22,7 +22,7 @@ The matrimony Application provides an attractive and effective platform for user
 
 3. **Run the Application:**
    - Open terminal in the project folder.
-   - Run `java --module-path "Path/to/javaFX-SDK/lib" --add-modules javafx.controls,javafx.fxml -jar Matrimony_App_Linux.jar` (Here replace Path/to/JavaFX-SDK/ with your javaFX SDK folder path)
+   - Run `java --module-path "Path/to/javaFX-SDK/lib" --add-modules javafx.controls,javafx.fxml -jar Matrimony_App_Linux.jar` (Here replace Path/to/JavaFX-SDK with your javaFX SDK folder path)
 
 ### For Windows
 
@@ -37,4 +37,4 @@ The matrimony Application provides an attractive and effective platform for user
 
 3. **Run the Application:**
    - Open terminal in the project folder.
-   - Run `java --module-path "Path/to/javaFX-SDK/lib" --add-modules javafx.controls,javafx.fxml -jar Matrimony_App_Windows.jar` (Here replace Path/to/JavaFX-SDK/ with your javaFX SDK folder path)
+   - Run `java --module-path "Path/to/javaFX-SDK/lib" --add-modules javafx.controls,javafx.fxml -jar Matrimony_App_Windows.jar` (Here replace Path/to/JavaFX-SDK with your javaFX SDK folder path)
